@@ -15,7 +15,7 @@ Report Service requires [Java 8](https://www.oracle.com/technetwork/java/javase/
 Clone the repository
 
 ```sh
-$ git clone https://github.com/spectre-hydra/ReportService.git
+$ git clone REPO_URL
 ```
 
 
